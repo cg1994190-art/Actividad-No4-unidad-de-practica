@@ -10,3 +10,10 @@ esta imagen muestra que tenemos que quitar los permisos por que si no se quitan 
 
 ![ ](image-4.png)
 
+## FALLOS QUE TUBE AL REALIZAR LA ACTIVIDAD:
+![alt text](image-5.png)
+- ese error salio por que nose ejecuto por que nos mostro error al installar al poner el install cdm.
+![
+
+](image-6.png)
+- este fallo sucedio por una mala vinculacion entre vs code y el http://localhost:3000 por malos comandos en la terminal integrada.
